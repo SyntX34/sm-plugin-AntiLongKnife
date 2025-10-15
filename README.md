@@ -23,7 +23,7 @@ In Zombie Reloaded servers, players can sometimes exploit the knife infection me
 - Minimal performance impact
 
 ## Installation
-1. Download the [Plugin](plugin/longknifefix.smx) file.
+1. Download the [Plugin](plugins/longknifefix.smx) file.
 2. Place the file in your server's `addons/sourcemod/plugins/` directory
 3. Restart your server or reload plugins
 4. Configure the plugin using the provided ConVars (optional)
